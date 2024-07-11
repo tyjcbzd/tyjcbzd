@@ -15,14 +15,30 @@ Here are some ideas to get you started:
 -->
 I am a ph.D. candidate who studies in Belarus 🇧🇾.
 
-**Research interests**
+**Research Interests**
 - 🏥 Medical Image Segmentation 
 - 📸 Object Detection/Tracking 
 - 🚗 Self-driving Car 
 
+**Github Overview**
+<br />
 | [![tyfelix's GitHub stats](https://github-readme-stats.vercel.app/api?username=tyjcbzd&layout=compact&theme=graywhite&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tyjcbzd&layout=compact&theme=graywhite&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 You are my No. ![Visitor Count](https://profile-counter.glitch.me/tyjcbzd/count.svg) visitor, welcome! :blush::blush::blush:
 
 
+#### Latest Research Projects
+
+
+<a href="https://github.com/tyjcbzd/EHANet">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tyjcbzd&repo=EHANet&theme=graywhite" />
+</a>
+<a href="https://github.com/tyjcbzd/LANet">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tyjcbzd&repo=LANet&theme=graywhite" />
+</a>
+<a href="https://github.com/tyjcbzd/FENet">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tyjcbzd&repo=FENet&theme=graywhite" />
+</a>
+<br />
+<br />
