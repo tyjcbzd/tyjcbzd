@@ -37,7 +37,7 @@ You are my No. ![Visitor Count](https://profile-counter.glitch.me/tyjcbzd/count.
 <a href="https://github.com/tyjcbzd/LANet">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tyjcbzd&repo=LANet&theme=graywhite" />
 </a>
-<a href="https://github.com/tyjcbzd/FENet">
+<a href="https://github.com/tyjcbzd/FE-Net">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tyjcbzd&repo=FENet&theme=graywhite" />
 </a>
 <br />
