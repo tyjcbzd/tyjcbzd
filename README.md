@@ -17,5 +17,7 @@ Here are some ideas to get you started:
 
 [![tyfelix's GitHub stats](https://github-readme-stats.vercel.app/api?username=tyjcbzd&show_icons=true&theme=panda)](https://github.com/anuraghazra/github-readme-stats)
 
-![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tyjcbzd)
-<img align='center'src="https://github-readme-stats.vercel.app/api/wakatime?username=tyjcbzd"/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tyjcbzd&layout=compact&theme=tokyonight)
+
+![Visitor Count](https://profile-counter.glitch.me/tyjcbzd/count.svg)
+
