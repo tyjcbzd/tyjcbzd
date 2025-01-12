@@ -18,7 +18,7 @@ I am a ph.D. candidate who studies in Belarus 🇧🇾.
 **Research Interests**
 - 🏥 Medical Image Segmentation 
 - 📸 Object Detection/Tracking 
-- 🚗 Self-driving Car 
+- 🚗 Self-driving Car：Single/Multiple Agent Trajectory Prediction;  BEV; Path planning under dynamic environment
 
 **Github Overview**
 <br />
